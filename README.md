@@ -1,7 +1,10 @@
 ## Hi there 👋
-Sempre gostei de entender como as coisas funcionam por dentro — e, principalmente, como quebram. Hoje trabalho como Offensive Security Analyst, atuando em testes de intrusão em aplicações web, APIs e ambientes mobile. No meu dia a dia, combino prática, estudo e muita curiosidade para encontrar falhas, explorar cenários e ajudar a elevar o nível de segurança dos sistemas.
+Sou um pentester com experiência em Web Hacking, Segurança de APIs e testes de infraestrutura e Active Directory. Foco meu trabalho na identificação de vulnerabilidades e exploração de cenários reais, sempre buscando a melhoria contínua da segurança dos sistemas.
 
-Tenho me aprofundado cada vez mais em áreas como engenharia reversa, técnicas de exploração e automação para pentest. Também curto me desafiar em CTFs e acompanhar conferências da comunidade de segurança.
 
-Sou certificado em CRTO, eWPTX, DCPT, CRTA, SYCP e eJPT, e continuo em constante evolução — sempre estudando, quebrando, testando e aprendendo.
 
+Sou graduando em Digital Security na Universidade Maurício de Nassau (UNINASSAU). Possuo também algumas certificações em segurança, incluindo CRTO, eWPTX, DCPT, CRTA, SYCP e eJPT.
+
+Fique à vontade para entrar em contato:
+https://app.hackthebox.com/users/1934070
+https://www.linkedin.com/in/eduardo-schwarz-8856bb2a3/
