@@ -4,7 +4,7 @@
 Sou pentester com experiência em Web Hacking, mobile e active directory. Foco meu trabalho na identificação de vulnerabilidades e exploração de cenários reais, sempre buscando a melhoria contínua da segurança dos sistemas.
 
 
-Sou graduando em Digital Security na Universidade Maurício de Nassau (UNINASSAU). Possuo também algumas certificações em segurança, incluindo CRTO, eWPTX, eMAPT, DCPT e SYCP.
+Sou graduando em Digital Security na Universidade Maurício de Nassau (UNINASSAU). Possuo também algumas certificações em segurança, incluindo CRTO, eWPTX, eMAPT, SCMP|A e DCPT.
 
 Fique à vontade para entrar em contato:
 
